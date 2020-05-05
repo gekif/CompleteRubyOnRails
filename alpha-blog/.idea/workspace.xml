@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66dd87e3-89c0-4a82-b05c-7910e7a6bf62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/articles/_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_messages.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/articles_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/articles_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/articles/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/articles/edit.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/articles/index.html.erb" afterPath="$PROJECT_DIR$/app/views/articles/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/articles/new.html.erb" afterPath="$PROJECT_DIR$/app/views/articles/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/home.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -47,91 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="articles_controller.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="articles_controller.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/articles_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="54" column="54" lean-forward="false" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/articles/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html.erb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/articles/edit.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_messages.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/_messages.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/articles/_form.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/articles/show.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="65" lean-forward="false" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/articles/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="408">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -168,9 +81,9 @@
         <option value="$PROJECT_DIR$/app/views/articles/edit.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_messages.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/articles_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/articles/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/pages/home.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/articles_controller.rb" />
       </list>
     </option>
   </component>
@@ -284,7 +197,7 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_app" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="home&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/views/pages/home.html.erb&#10;appl&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/views/layouts/application.html.erb&#10;show&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/views/articles/show.html.erb&#10;new.&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/views/articles/new.html.erb&#10;article&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/controllers/articles_controller.rb&#10;routes&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/config/routes.rb&#10;schema&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/db/schema.rb&#10;webpacker&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/config/webpacker.yml" />
+    <property name="SearchEverywhereHistoryKey" value="artic&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/controllers/articles_controller.rb&#10;home&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/views/pages/home.html.erb&#10;appl&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/views/layouts/application.html.erb&#10;show&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/views/articles/show.html.erb&#10;new.&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/views/articles/new.html.erb&#10;article&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/app/controllers/articles_controller.rb&#10;routes&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/config/routes.rb&#10;schema&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/db/schema.rb&#10;webpacker&#9;FILE&#9;file://C:/Users/T420/Documents/RubyProject/CompleteRubyOnRails/alpha-blog/config/webpacker.yml" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
   </component>
   <component name="RunDashboard">
@@ -402,7 +315,7 @@
       <workItem from="1588061280172" duration="923000" />
       <workItem from="1588598304963" duration="1116000" />
       <workItem from="1588614704536" duration="643000" />
-      <workItem from="1588623923416" duration="5591000" />
+      <workItem from="1588623923416" duration="5926000" />
     </task>
     <task id="LOCAL-00001" summary="3. Introduction to Ruby on Rails: 10. Root Route, Git and Version Control">
       <created>1588062121642</created>
@@ -460,11 +373,18 @@
       <option name="project" value="LOCAL" />
       <updated>1588671638321</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="4. CRUD Operations in Ruby on Rails: 14. Destroy and Partials">
+      <created>1588672486099</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588672486099</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8273000" />
+    <option name="totallyTimeSpent" value="8608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="697" height="735" extended-state="0" />
@@ -506,7 +426,8 @@
     <MESSAGE value="4. CRUD Operations in Ruby on Rails: 8. Complete New and Show Actions" />
     <MESSAGE value="4. CRUD Operations in Ruby on Rails: 10. Edit Articles" />
     <MESSAGE value="4. CRUD Operations in Ruby on Rails: 12. List Articles and Layout Links" />
-    <option name="LAST_COMMIT_MESSAGE" value="4. CRUD Operations in Ruby on Rails: 12. List Articles and Layout Links" />
+    <MESSAGE value="4. CRUD Operations in Ruby on Rails: 14. Destroy and Partials" />
+    <option name="LAST_COMMIT_MESSAGE" value="4. CRUD Operations in Ruby on Rails: 14. Destroy and Partials" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -685,14 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/articles_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="54" column="54" lean-forward="false" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/articles/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -705,6 +618,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/articles_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
         </state>
       </provider>
